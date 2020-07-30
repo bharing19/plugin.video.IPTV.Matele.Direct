@@ -1,5 +1,11 @@
 [
 {
+	"url": "0.0.0.0", 
+	"logos": "", 
+	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/FR.png", 
+	"name": "IPTV Francais"
+},
+{
 	"url": "https://raw.githubusercontent.com/Sphinxroot/M3U-URL/master/Quebec.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Logo%20Pays/QC.png", 
@@ -40,6 +46,12 @@
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Logo%20Pays/FR.png", 
 	"name": "Francais Du Monde"
+},
+{
+	"url": "0.0.0.0", 
+	"logos": "", 
+	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/ANG.png", 
+	"name": "IPTV Anglais"
 },
 {
 	"url": "https://raw.githubusercontent.com/Sphinxroot/M3U-URL/master/allsprk.tv.m3u", 
