@@ -58,5 +58,17 @@
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/poster.png", 
 	"name": "allsprk.tv"
+},
+{
+	"url": "0.0.0.0", 
+	"logos": "", 
+	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/ML.png", 
+	"name": "★★★★★★★★★★Multi Langue★★★★★★★★★★"
+},
+{
+	"url": "https://raw.githubusercontent.com/Sphinxroot/M3U-URL/master/music.m3u", 
+	"logos": "", 
+	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/musique.png", 
+	"name": "Musique Video Live"
 }
 ]
