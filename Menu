@@ -66,6 +66,12 @@
 	"name": "allsprk.tv"
 },
 {
+	"url": "https://raw.githubusercontent.com/Sphinxroot/M3U-URL/master/DistroTV.m3u", 
+	"logos": "", 
+	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/dtv.png", 
+	"name": "Distro TV"
+},
+{
 	"url": "https://raw.githubusercontent.com/Sphinxroot/M3U-URL/master/TV25.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/tv25.png", 
