@@ -9,7 +9,7 @@
 	"url": "https://raw.githubusercontent.com/Sphinxroot/M3U-URL/master/Quebec.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Logo%20Pays/QC.png", 
-	"name": "Quebec"
+	"name": "Quebec TV"
 },
 {
 	"url": "https://raw.githubusercontent.com/Sphinxroot/M3U-URL/master/Quebec%20Radio%20FR%20%20Merged.m3u", 
@@ -22,6 +22,12 @@
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Logo%20Pays/QC.png", 
 	"name": "Quebec WebCamera"
+},
+{
+	"url": "https://raw.githubusercontent.com/Sphinxroot/M3U-URL/master/FilmsQC.m3u", 
+	"logos": "", 
+	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/wpe8DfM.png", 
+	"name": "Films Du Quebec"
 },
 {
 	"url": "https://raw.githubusercontent.com/Sphinxroot/M3U-URL/master/France.m3u", 
