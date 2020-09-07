@@ -84,6 +84,13 @@
 	"name": "USA (temporary)"
 },
 {
+	"url": "https://raw.githubusercontent.com/Sphinxroot/M3U-URL/master/AdultSwim.m3u", 
+	"logos": "", 
+	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/AS.png", 
+	"name": "AdultSwim"
+},
+{
+{
 	"url": "https://raw.githubusercontent.com/Sphinxroot/M3U-URL/master/allsprk.tv.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/poster.png", 
