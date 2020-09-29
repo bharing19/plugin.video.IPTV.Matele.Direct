@@ -125,4 +125,10 @@
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/musique.png", 
 	"name": "Musique Video Live"
 }
+{
+	"url": "https://raw.githubusercontent.com/Sphinxroot/M3U-URL/master/Fluxus.tv/Index.m3u", 
+	"logos": "", 
+	"image": "https://github.com/Sphinxroot/M3U-URL/raw/master/Fluxus.tv/Images/Fluxus/FluxsTvWhite.png", 
+	"name": "TEST LINE"
+},
 ]
