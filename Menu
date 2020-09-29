@@ -120,6 +120,24 @@
 	"name": "★★★★★★★★★★Multi Langue★★★★★★★★★★"
 },
 {
+	"url": "https://raw.githubusercontent.com/Sphinxroot/M3U-URL/master/Fluxus.tv/Fluxus.Live.Merged4KODI.m3u", 
+	"logos": "", 
+	"image": "https://github.com/Sphinxroot/M3U-URL/raw/master/Fluxus.tv/Images/Fluxus/FluxusTV_Playlists.png", 
+	"name": "FluxusTV"
+},
+{
+	"url": "https://raw.githubusercontent.com/Sphinxroot/M3U-URL/master/Fluxus.tv/Logde.Merged4KODI.m3u", 
+	"logos": "", 
+	"image": "https://github.com/Sphinxroot/M3U-URL/raw/master/Fluxus.tv/Images/Lodge/LodgeTV_Logo-Header_Long.png", 
+	"name": "LodgeTV"
+},
+{
+	"url": "https://raw.githubusercontent.com/Sphinxroot/M3U-URL/master/Fluxus.tv/Stratus.Merged4KODI.m3u", 
+	"logos": "", 
+	"image": "https://github.com/Sphinxroot/M3U-URL/raw/master/Fluxus.tv/Images/Stratus/Stratus_TV_Playlist.png", 
+	"name": "StratusTV"
+},
+{
 	"url": "https://raw.githubusercontent.com/Sphinxroot/M3U-URL/master/music.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/musique.png", 
