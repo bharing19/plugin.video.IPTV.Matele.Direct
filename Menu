@@ -126,9 +126,9 @@
 	"name": "Musique Video Live"
 },
 {
-	"url": "https://raw.githubusercontent.com/Sphinxroot/M3U-URL/master/Fluxus.tv/Index3.m3u", 
+	"url": "https://raw.githubusercontent.com/Sphinxroot/M3U-URL/master/0nradio.com.m3u", 
 	"logos": "", 
-	"image": "https://github.com/Sphinxroot/M3U-URL/raw/master/Fluxus.tv/Images/Fluxus/FluxsTvWhite.png", 
-	"name": "TEST LINE"
+	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/0nradio.png", 
+	"name": "0nRadio"
 }
 ]
