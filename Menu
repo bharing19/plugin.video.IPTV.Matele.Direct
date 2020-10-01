@@ -148,5 +148,11 @@
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/0nradio.png", 
 	"name": "0nRadio"
+},
+{
+	"url": "https://raw.githubusercontent.com/Sphinxroot/M3U-URL/master/URLTEST.m3u", 
+	"logos": "", 
+	"image": "", 
+	"name": "TEST"
 }
 ]
