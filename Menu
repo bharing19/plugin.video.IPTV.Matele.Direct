@@ -138,6 +138,12 @@
 	"name": "StratusTV"
 },
 {
+	"url": "https://raw.githubusercontent.com/Sphinxroot/M3U-URL/master/gemonline.m3u", 
+	"logos": "", 
+	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/Gem.png", 
+	"name": "Gemonline"
+},
+{
 	"url": "https://raw.githubusercontent.com/Sphinxroot/M3U-URL/master/music.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/musique.png", 
