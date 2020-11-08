@@ -126,6 +126,12 @@
 	"name": "Distro TV"
 },
 {
+	"url": "https://raw.githubusercontent.com/Sphinxroot/M3U-URL/master/MyTvToGo.m3u", 
+	"logos": "", 
+	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/MyTVToGo.png", 
+	"name": "MyTvToGo"
+},
+{
 	"url": "https://raw.githubusercontent.com/Sphinxroot/M3U-URL/master/PlutoTV/PlutoTV.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/PlutoTV.png", 
