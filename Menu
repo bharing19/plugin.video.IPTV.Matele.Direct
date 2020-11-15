@@ -186,7 +186,7 @@
 	"name": "StratusTV"
 },
 {
-	"url": "https://raw.githubusercontent.com/Sphinxroot/M3U-URL/master/gemonline.m3u", 
+	"url": "https://raw.githubusercontent.com/Sphinxroot/M3U-URL/master/Streaming%20Service%20Network/Gemonline/Gemonline.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/Gem.png", 
 	"name": "Gemonline"
