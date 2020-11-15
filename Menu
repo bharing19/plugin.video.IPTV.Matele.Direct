@@ -102,61 +102,61 @@
 	"name": "USA (temporary)"
 },
 {
-	"url": "https://raw.githubusercontent.com/Sphinxroot/M3U-URL/master/AdultSwim.m3u", 
+	"url": "https://raw.githubusercontent.com/Sphinxroot/M3U-URL/master/Streaming%20Service%20Network/AdultSwim/AdultSwim.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/AS.png", 
 	"name": "AdultSwim"
 },
 {
-	"url": "https://raw.githubusercontent.com/Sphinxroot/M3U-URL/master/allsprk.tv.m3u", 
+	"url": "https://raw.githubusercontent.com/Sphinxroot/M3U-URL/master/Streaming%20Service%20Network/allsprk.tv/allsprk.tv.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/poster.png", 
 	"name": "allsprk.tv"
 },
 {
-	"url": "https://raw.githubusercontent.com/Sphinxroot/M3U-URL/master/bumblebee.tv.m3u", 
+	"url": "https://raw.githubusercontent.com/Sphinxroot/M3U-URL/master/Streaming%20Service%20Network/bumblebee.tv/bumblebee.tv.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/Bumblebeetv.png", 
 	"name": "BumblebeeTV"
 },
 {
-	"url": "https://raw.githubusercontent.com/Sphinxroot/M3U-URL/master/DistroTV.m3u", 
+	"url": "https://raw.githubusercontent.com/Sphinxroot/M3U-URL/master/Streaming%20Service%20Network/DistroTV/DistroTV.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/dtv.png", 
 	"name": "Distro TV"
 },
 {
-	"url": "https://raw.githubusercontent.com/Sphinxroot/M3U-URL/master/MyTvToGo.m3u", 
+	"url": "https://raw.githubusercontent.com/Sphinxroot/M3U-URL/master/Streaming%20Service%20Network/MyTvToGo/MyTvToGo.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/MyTVToGo.png", 
 	"name": "MyTvToGo"
 },
 {
-	"url": "https://raw.githubusercontent.com/Sphinxroot/M3U-URL/master/PlutoTV/PlutoTV.m3u", 
+	"url": "https://raw.githubusercontent.com/Sphinxroot/M3U-URL/master/Streaming%20Service%20Network/PlutoTV/PlutoTV.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/PlutoTV.png", 
 	"name": "PlutoTV"
 },
 {
-	"url": "https://raw.githubusercontent.com/Sphinxroot/M3U-URL/master/redboxtv.m3u", 
+	"url": "https://raw.githubusercontent.com/Sphinxroot/M3U-URL/master/Streaming%20Service%20Network/RedBoxTV/RedBoxTV.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/RedBox-TV-1.png", 
 	"name": "RedBoxTV"
 },
 {
-	"url": "https://raw.githubusercontent.com/Sphinxroot/M3U-URL/master/StirrTV/Stirr.TV.m3u", 
+	"url": "https://raw.githubusercontent.com/Sphinxroot/M3U-URL/master/Streaming%20Service%20Network/StirrTV/StirrTV.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/Stirr.png", 
 	"name": "StirrTV"
 },
 {
-	"url": "https://raw.githubusercontent.com/Sphinxroot/M3U-URL/master/TV25.m3u", 
+	"url": "https://raw.githubusercontent.com/Sphinxroot/M3U-URL/master/Streaming%20Service%20Network/TV25/TV25.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/tv25.png", 
 	"name": "TV25"
 },
 {
-	"url": "https://raw.githubusercontent.com/Sphinxroot/M3U-URL/master/WatchYourTV.m3u", 
+	"url": "https://raw.githubusercontent.com/Sphinxroot/M3U-URL/master/Streaming%20Service%20Network/WatchYourTV/WatchYourTV.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/WYTV.png", 
 	"name": "WatchYourTV"
@@ -208,5 +208,5 @@
 	"logos": "", 
 	"image": "", 
 	"name": "TEST"
-},
+}
 ]
