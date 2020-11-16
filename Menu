@@ -126,6 +126,12 @@
 	"name": "Distro TV"
 },
 {
+	"url": "https://raw.githubusercontent.com/Sphinxroot/M3U-URL/master/Streaming%20Service%20Network/GinikoUSA/Giniko.USA.m3u", 
+	"logos": "", 
+	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/Giniko.png", 
+	"name": "GinikoUSA"
+},
+{
 	"url": "https://raw.githubusercontent.com/Sphinxroot/M3U-URL/master/Streaming%20Service%20Network/MyTvToGo/MyTvToGo.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/MyTVToGo.png", 
