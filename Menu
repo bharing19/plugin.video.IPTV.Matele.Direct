@@ -138,6 +138,12 @@
 	"name": "MyTvToGo"
 },
 {
+	"url": "https://raw.githubusercontent.com/Sphinxroot/M3U-URL/master/Streaming%20Service%20Network/Plex/Plex.m3u", 
+	"logos": "", 
+	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/Plex.png", 
+	"name": "Plex"
+},
+{
 	"url": "https://raw.githubusercontent.com/Sphinxroot/M3U-URL/master/Streaming%20Service%20Network/PlutoTV/PlutoTV.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/PlutoTV.png", 
