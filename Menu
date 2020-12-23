@@ -24,6 +24,12 @@
 	"name": "Quebec WebCamera"
 },
 {
+	"url": "https://raw.githubusercontent.com/Sphinxroot/Stuffed/main/FilmsQC.m3u", 
+	"logos": "", 
+	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Logo%20Pays/QC.png", 
+	"name": "Quebec Films"
+},
+{
 	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/France.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Logo%20Pays/FR.png", 
@@ -58,6 +64,18 @@
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/Films.png", 
 	"name": "Films"
+},
+{
+	"url": "https://raw.githubusercontent.com/Sphinxroot/Stuffed/main/Series.fr.m3u", 
+	"logos": "", 
+	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/Series.png", 
+	"name": "Series"
+},
+{
+	"url": "https://raw.githubusercontent.com/Sphinxroot/Stuffed/main/Docu.fr.m3u", 
+	"logos": "", 
+	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/Docu.png", 
+	"name": "Docus"
 },
 {
 	"url": "0.0.0.0", 
