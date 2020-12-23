@@ -54,6 +54,12 @@
 	"name": "Francais Du Monde"
 },
 {
+	"url": "https://raw.githubusercontent.com/Sphinxroot/Stuffed/main/FILMS.fr.m3u?token=ALMMVAQX3DLEFTW52QCV6D274NU5M", 
+	"logos": "", 
+	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/Films.png", 
+	"name": "Films"
+},
+{
 	"url": "0.0.0.0", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/ANG.png", 
