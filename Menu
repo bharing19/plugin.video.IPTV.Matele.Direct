@@ -102,6 +102,12 @@
 	"name": "Canada"
 },
 {
+	"url": "https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/Free2ViewTV-2020-Remote.m3u", 
+	"logos": "", 
+	"image": "", 
+	"name": "Free2ViewTV"
+},
+{
 	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/USA.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Logo%20Pays/US.png", 
