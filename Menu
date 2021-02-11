@@ -228,6 +228,12 @@
 	"name": "Gemonline"
 },
 {
+	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/Youtube/ILL.TV/ILL.TV.m3u", 
+	"logos": "", 
+	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/ILL.jpg", 
+	"name": "Innovative Language Learning"
+},
+{
 	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/music.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/musique.png", 
