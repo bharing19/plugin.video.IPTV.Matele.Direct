@@ -240,6 +240,12 @@
 	"name": "Live Music And Radio TV/Cam"
 },
 {
+	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/0nradio.com.m3u", 
+	"logos": "", 
+	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/0nradio.png", 
+	"name": "0nradio"
+},
+{
 	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/URLTEST.m3u", 
 	"logos": "", 
 	"image": "", 
