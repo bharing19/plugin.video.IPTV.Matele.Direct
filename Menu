@@ -147,7 +147,13 @@
 	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/Streaming%20Service%20Network/GinikoUSA/Giniko.USA.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/Giniko.png", 
-	"name": "GinikoUSA"
+	"name": "Giniko USA"
+},
+{
+	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/Streaming%20Service%20Network/GinikoUSA/Giniko.World.m3u", 
+	"logos": "", 
+	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/GinikoW.png", 
+	"name": "Giniko World"
 },
 {
 	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/Streaming%20Service%20Network/MyTvToGo/MyTvToGo.m3u", 
