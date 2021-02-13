@@ -78,6 +78,12 @@
 	"name": "Films"
 },
 {
+	"url": "https://raw.githubusercontent.com/Sphinxroot/Stuffed/main/FILM.FR.ANIME.m3u", 
+	"logos": "", 
+	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/anime.png", 
+	"name": "Anime"
+},
+{
 	"url": "https://raw.githubusercontent.com/Sphinxroot/Stuffed/main/Series.fr.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/Series.png", 
