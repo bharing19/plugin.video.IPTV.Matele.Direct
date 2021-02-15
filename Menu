@@ -174,6 +174,12 @@
 	"name": "MyTvToGo"
 },
 {
+	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/Streaming%20Service%20Network/PBS%20GEO/PBS.m3u", 
+	"logos": "", 
+	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/PBS.jpg", 
+	"name": "PBS USA GEO"
+},
+{
 	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/Streaming%20Service%20Network/Plex/Plex.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/Plex.png", 
@@ -244,6 +250,12 @@
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/Gem.png", 
 	"name": "Gemonline"
+},
+{
+	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/Streaming%20Service%20Network/Good%20TV/GoodTV.m3u", 
+	"logos": "", 
+	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/Good.jpg", 
+	"name": "Good TV"
 },
 {
 	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/Youtube/ILL.TV/ILL.TV.m3u", 
