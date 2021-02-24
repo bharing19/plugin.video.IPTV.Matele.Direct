@@ -12,7 +12,7 @@
 	"name": "Quebec TV"
 },
 {
-	"url": "https://raw.githubusercontent.com/BufferZoneQC/IPTV/main/IPTVQC.m3u", 
+	"url": "https://raw.githubusercontent.com/vassteiptv/IPTV/main/IPTVQC.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/QuebecTV.png", 
 	"name": "Quebec TV mix 2"
