@@ -246,6 +246,12 @@
 	"name": "★★★★★★★★★★Multi Langue★★★★★★★★★★"
 },
 {
+	"url": "https://raw.githubusercontent.com/Free-IPTV/Countries/master/ZZ_PLAYLIST_ALL_TV.m3u", 
+	"logos": "", 
+	"image": "", 
+	"name": "Free-IPTV"
+},
+{
 	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/Streaming%20Service%20Network/Gemonline/Gemonline.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/Gem.png", 
