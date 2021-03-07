@@ -286,5 +286,11 @@
 	"logos": "", 
 	"image": "", 
 	"name": "TEST"
+},
+{
+	"url": "https://raw.githubusercontent.com/Sphinxroot/Test/main/URLTEST.txt", 
+	"logos": "", 
+	"image": "", 
+	"name": "Module TEST"
 }
 ]
