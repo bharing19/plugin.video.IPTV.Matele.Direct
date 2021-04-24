@@ -282,6 +282,12 @@
 	"name": "Free2ViewTV"
 },
 {
+	"url": "https://raw.githubusercontent.com/Sphinxroot/Stuffed/main/MAL.m3u", 
+	"logos": "", 
+	"image": "", 
+	"name": "VOD List"
+},
+{
 	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/music.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/musique.png", 
