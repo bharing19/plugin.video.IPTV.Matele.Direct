@@ -282,6 +282,12 @@
 	"name": "Free2ViewTV"
 },
 {
+	"url": "https://raw.githubusercontent.com/TheLastZombie/Countries/main/dist/ZZ_PLAYLIST_ALL_TV.m3u", 
+	"logos": "", 
+	"image": "", 
+	"name": "World TV"
+},
+{
 	"url": "https://raw.githubusercontent.com/Sphinxroot/Stuffed/main/MAL.m3u", 
 	"logos": "", 
 	"image": "", 
