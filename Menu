@@ -324,6 +324,12 @@
 	"name": "Live Music And Radio TV/Cam"
 },
 {
+	"url": "0.0.0.0", 
+	"logos": "", 
+	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/Radio.png", 
+	"name": "★★★★★★★★★★Radio★★★★★★★★★★"
+},
+{
 	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/BigRRadio.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/BRR.jpg", 
@@ -334,6 +340,12 @@
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/GotRadio.jpg", 
 	"name": "Got Radio"
+},
+{
+	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/MCR%20Radios.m3u", 
+	"logos": "", 
+	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/MCR.png", 
+	"name": "MCR Radios"
 },
 {
 	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/0nradio.com.m3u", 
