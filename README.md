@@ -21,6 +21,7 @@ plugin.video.f4mTester
 
 dependance requis avant l`installation 
 script.module.tulip
+script.module.streamlink.base-2020  +
 plugin.video.streamlink-tester
 
 plugin.video.tvone1112-110
