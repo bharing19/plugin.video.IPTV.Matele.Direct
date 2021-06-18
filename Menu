@@ -126,12 +126,6 @@
 	"name": "AdultSwim"
 },
 {
-	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/Streaming%20Service%20Network/allsprk.tv/allsprk.tv.m3u", 
-	"logos": "", 
-	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/poster.png", 
-	"name": "allsprk.tv"
-},
-{
 	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/Streaming%20Service%20Network/bumblebee.tv/bumblebee.tv.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/Bumblebeetv.png", 
@@ -312,16 +306,70 @@
 	"name": "World TV"
 },
 {
-	"url": "https://raw.githubusercontent.com/Sphinxroot/Stuffed/main/MAL.m3u", 
-	"logos": "", 
-	"image": "", 
-	"name": "VOD List"
-},
-{
 	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/music.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/musique.png", 
 	"name": "Live Music And Radio TV/Cam"
+},
+{
+	"url": "0.0.0.0", 
+	"logos": "", 
+	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/VOD.png", 
+	"name": "★★★★★★★★★★V.O.D★★★★★★★★★★"
+},
+{
+	"url": "https://raw.githubusercontent.com/Sphinxroot/Stuffed/main/MAL.m3u", 
+	"logos": "", 
+	"image": "", 
+	"name": "VOD ╰☆╮911™"
+},
+{
+	"url": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/6364fce055afecd2380812f99b703b4c8ac8fb1a/vod/PlutoTV_VOD_BR.m3u", 
+	"logos": "", 
+	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/PlutoTV.png", 
+	"name": "PlutoTV VOD BR"
+},
+{
+	"url": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/6364fce055afecd2380812f99b703b4c8ac8fb1a/vod/PlutoTV_VOD_DE.m3u", 
+	"logos": "", 
+	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/PlutoTV.png", 
+	"name": "PlutoTV VOD DE"
+},
+{
+	"url": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/6364fce055afecd2380812f99b703b4c8ac8fb1a/vod/PlutoTV_VOD_ES.m3u", 
+	"logos": "", 
+	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/PlutoTV.png", 
+	"name": "PlutoTV VOD ES"
+},
+{
+	"url": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/main/series/PlutoTV_SERIES_ES.m3u", 
+	"logos": "", 
+	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/PlutoTV.png", 
+	"name": "PlutoTV Series ES"
+},
+{
+	"url": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/6364fce055afecd2380812f99b703b4c8ac8fb1a/vod/PlutoTV_VOD_FR.m3u", 
+	"logos": "", 
+	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/PlutoTV.png", 
+	"name": "PlutoTV VOD FR"
+},
+{
+	"url": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/6364fce055afecd2380812f99b703b4c8ac8fb1a/vod/PlutoTV_VOD_MX.m3u", 
+	"logos": "", 
+	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/PlutoTV.png", 
+	"name": "PlutoTV VOD MX"
+},
+{
+	"url": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/6364fce055afecd2380812f99b703b4c8ac8fb1a/vod/PlutoTV_VOD_GB.m3u", 
+	"logos": "", 
+	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/PlutoTV.png", 
+	"name": "PlutoTV VOD UK"
+},
+{
+	"url": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/6364fce055afecd2380812f99b703b4c8ac8fb1a/vod/PlutoTV_VOD_US.m3u", 
+	"logos": "", 
+	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/PlutoTV.png", 
+	"name": "PlutoTV VOD US"
 },
 {
 	"url": "0.0.0.0", 
