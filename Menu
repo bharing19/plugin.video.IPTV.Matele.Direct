@@ -318,6 +318,18 @@
 	"name": "World TV"
 },
 {
+	"url": "https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/Greekstreamtv.m3u", 
+	"logos": "", 
+	"image": "", 
+	"name": "free-greek-iptv"
+},
+{
+	"url": "https://raw.githubusercontent.com/Playtoon/familia/main/tv.m3u", 
+	"logos": "", 
+	"image": "", 
+	"name": "Playtoon Playlist"
+},
+{
 	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/music.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/musique.png", 
