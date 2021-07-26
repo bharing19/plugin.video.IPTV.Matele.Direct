@@ -45,7 +45,13 @@
 	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/France.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Logo%20Pays/FR.png", 
-	"name": "France"
+	"name": "France TV"
+},
+{
+	"url": "https://raw.githubusercontent.com/Sphinxroot/Stuffed/main/FR2.m3u", 
+	"logos": "", 
+	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Logo%20Pays/FR.png", 
+	"name": "France TV 2"
 },
 {
 	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/France.Radio.Merged.m3u", 
@@ -57,19 +63,19 @@
 	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/Belgique.fr.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Logo%20Pays/be.png", 
-	"name": "Belgique"
+	"name": "Belgique TV"
 },
 {
 	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/Suisse.fr.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Logo%20Pays/CH.png", 
-	"name": "Suisse"
+	"name": "Suisse TV"
 },
 {
 	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/francais%20monde.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Logo%20Pays/FR.png", 
-	"name": "Francais Du Monde"
+	"name": "Francais Du Monde TV"
 },
 {
 	"url": "https://raw.githubusercontent.com/Sphinxroot/Stuffed/main/FILMS.fr.m3u", 
@@ -105,13 +111,13 @@
 	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/Canada.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Logo%20Pays/Ca.png", 
-	"name": "Canada"
+	"name": "Canada TV"
 },
 {
 	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/USA.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Logo%20Pays/US.png", 
-	"name": "USA (temporary)"
+	"name": "USA TV (temporary)"
 },
 {
 	"url": "0.0.0.0", 
