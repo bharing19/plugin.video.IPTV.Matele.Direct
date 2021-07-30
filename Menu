@@ -210,6 +210,12 @@
 	"name": "MyTvToGo"
 },
 {
+	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/Streaming%20Service%20Network/PCL/PCL.m3u", 
+	"logos": "", 
+	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/PCL.jpg", 
+	"name": "PCL"
+},
+{
 	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/Streaming%20Service%20Network/PBS%20GEO/PBS.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/PBS.jpg", 
