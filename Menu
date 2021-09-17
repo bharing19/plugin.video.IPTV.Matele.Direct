@@ -81,13 +81,19 @@
 	"url": "0.0.0.0", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/Countries.jpg", 
-	"name": "★★★★★★★★★★Countries★★★★★★★★★★"
+	"name": "★★★★★★★★★★Country/Pays★★★★★★★★★★"
 },
 {
 	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/Canada.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Logo%20Pays/Ca.png", 
 	"name": "Canada TV"
+},
+{
+	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/Haiti.m3u", 
+	"logos": "", 
+	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Logo%20Pays/HT.png", 
+	"name": "Haïti TV"
 },
 {
 	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/USA.m3u", 
@@ -123,7 +129,7 @@
 	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/Streaming%20Service%20Network/bumblebee.tv/bumblebee.tv.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/Bumblebeetv.png", 
-	"name": "BumblebeeTV"
+	"name": "Bumblebee TV"
 },
 {
 	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/Streaming%20Service%20Network/DistroTV/DistroTV.m3u", 
@@ -141,7 +147,7 @@
 	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/Streaming%20Service%20Network/Gemonline/Gemonline.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/Gem.png", 
-	"name": "Gemonline"
+	"name": "Gemonline (OFFLINE)"
 },
 {
 	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/Streaming%20Service%20Network/GinikoUSA/Giniko.USA.m3u", 
@@ -171,7 +177,7 @@
 	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/Streaming%20Service%20Network/HerogoTV/HerogoTV.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/HerogoTV.jpg", 
-	"name": "HerogoTV"
+	"name": "Herogo TV"
 },
 {
 	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/Youtube/ILL.TV/ILL.TV.m3u", 
@@ -189,7 +195,7 @@
 	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/Streaming%20Service%20Network/Jungo%2BTV/Jungo%2BTV.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/Jungo%2B.png", 
-	"name": "Jungo+TV"
+	"name": "Jungo+ TV"
 },
 {
 	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/Streaming%20Service%20Network/LocalNow/LocalNow.m3u", 
@@ -201,7 +207,7 @@
 	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/Streaming%20Service%20Network/MalimarTV/Malimar.tv.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/Malimar.TV.png", 
-	"name": "MalimarTV"
+	"name": "Malimar TV"
 },
 {
 	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/Streaming%20Service%20Network/MyTvToGo/MyTvToGo.m3u", 
@@ -213,7 +219,7 @@
 	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/Streaming%20Service%20Network/PCL/PCL.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/PCL.jpg", 
-	"name": "PCL"
+	"name": "PCL (OFFLINE)"
 },
 {
 	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/Streaming%20Service%20Network/PBS%20GEO/PBS.m3u", 
@@ -225,13 +231,13 @@
 	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/Streaming%20Service%20Network/Plex/Plex.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/Plex.png", 
-	"name": "Plex"
+	"name": "Plex TV"
 },
 {
 	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/Streaming%20Service%20Network/PlutoTV/PlutoTV.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/PlutoTV.png", 
-	"name": "PlutoTV"
+	"name": "Pluto TV"
 },
 {
 	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/Streaming%20Service%20Network/Rad.TV/Rad.TV.m3u", 
@@ -243,25 +249,25 @@
 	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/Streaming%20Service%20Network/RakutenTV/RakutenTV.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/Rakuten.png", 
-	"name": "RakutenTV"
+	"name": "Rakuten TV"
 },
 {
 	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/Streaming%20Service%20Network/RedBoxTV/RedBoxTV.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/RedBox-TV-1.png", 
-	"name": "RedBoxTV"
+	"name": "RedBox TV"
 },
 {
 	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/Streaming%20Service%20Network/Roku/Roku.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/Roku.png", 
-	"name": "Roku"
+	"name": "Roku TV"
 },
 {
 	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/Streaming%20Service%20Network/Samsung%20TV%2B/SamsungTV%2B.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/Samsung.jpg", 
-	"name": "SamsungTv+"
+	"name": "Samsung Tv+"
 },
 {
 	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/Streaming%20Service%20Network/Smash/smash_plus.m3u", 
@@ -273,13 +279,13 @@
 	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/Streaming%20Service%20Network/StirrTV/StirrTV.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/Stirr.png", 
-	"name": "StirrTV"
+	"name": "Stirr TV"
 },
 {
 	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/Streaming%20Service%20Network/TubiTV/tubi.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/tubi.png", 
-	"name": "TubiTV"
+	"name": "Tubi TV"
 },
 {
 	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/Streaming%20Service%20Network/TV25/TV25.m3u", 
@@ -303,13 +309,13 @@
 	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/Streaming%20Service%20Network/VisionTV/VisionTV.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/VisionTV.png", 
-	"name": "VisionTV"
+	"name": "Vision TV"
 },
 {
 	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/Streaming%20Service%20Network/VizioTV/VizioTV.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/Vizio.jpg", 
-	"name": "VisioTV"
+	"name": "Visio TV"
 },
 {
 	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/Streaming%20Service%20Network/WatchYourTV/WatchYourTV.m3u", 
@@ -333,7 +339,7 @@
 	"url": "https://raw.githubusercontent.com/TheLastZombie/Countries/main/dist/ZZ_PLAYLIST_ALL_TV.m3u", 
 	"logos": "", 
 	"image": "", 
-	"name": "World TV"
+	"name": "World List Mixed TV"
 },
 {
 	"url": "https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/Greekstreamtv.m3u", 
