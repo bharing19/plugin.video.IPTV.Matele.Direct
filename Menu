@@ -336,6 +336,12 @@
 	"name": "Free2ViewTV"
 },
 {
+	"url": "https://iptv-org.github.io/iptv/index.country.m3u", 
+	"logos": "", 
+	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/iptv-org.png", 
+	"name": "IPTV-ORG 9000+ Link - Long To Load"
+},
+{
 	"url": "https://raw.githubusercontent.com/TheLastZombie/Countries/main/dist/ZZ_PLAYLIST_ALL_TV.m3u", 
 	"logos": "", 
 	"image": "", 
@@ -468,7 +474,7 @@
 	"name": "TEST"
 },
 {
-	"url": "https://iptv-org.github.io/iptv/index.country.m3u", 
+	"url": "https://i.mjh.nz/PlutoTV/us.m3u8", 
 	"logos": "", 
 	"image": "", 
 	"name": "Module TEST"
