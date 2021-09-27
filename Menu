@@ -222,22 +222,22 @@
 	"name": "PCL (OFFLINE)"
 },
 {
-	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/Streaming%20Service%20Network/PBS%20GEO/PBS.m3u", 
+	"url": "https://i.mjh.nz/PBS/all.m3u8", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/PBS.jpg", 
-	"name": "PBS USA GEO"
+	"name": "Matt Huismans - PBS USA GEO"
 },
 {
-	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/Streaming%20Service%20Network/Plex/Plex.m3u", 
+	"url": "https://i.mjh.nz/Plex/all.m3u8", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/Plex.png", 
-	"name": "Plex TV"
+	"name": "Matt Huismans - Plex TV"
 },
 {
-	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/Streaming%20Service%20Network/PlutoTV/PlutoTV.m3u", 
+	"url": "https://i.mjh.nz/PlutoTV/all.m3u8", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/PlutoTV.png", 
-	"name": "Pluto TV"
+	"name": "Matt Huismans -Pluto TV"
 },
 {
 	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/Streaming%20Service%20Network/Rad.TV/Rad.TV.m3u", 
@@ -264,10 +264,10 @@
 	"name": "Roku TV"
 },
 {
-	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/Streaming%20Service%20Network/Samsung%20TV%2B/SamsungTV%2B.m3u", 
+	"url": "https://i.mjh.nz/SamsungTVPlus/all.m3u8", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/Samsung.jpg", 
-	"name": "Samsung Tv+"
+	"name": "Matt Huismans - Samsung Tv+"
 },
 {
 	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/Streaming%20Service%20Network/Smash/smash_plus.m3u", 
@@ -474,7 +474,7 @@
 	"name": "TEST"
 },
 {
-	"url": "https://i.mjh.nz/PlutoTV/us.m3u8", 
+	"url": "https://www.apsattv.com/klowd.m3u", 
 	"logos": "", 
 	"image": "", 
 	"name": "Module TEST"
