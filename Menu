@@ -135,7 +135,7 @@
 	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/Streaming%20Service%20Network/Catcast/Catcast.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/Catcast.png", 
-	"name": "Catcasttv"
+	"name": "Catcast TV"
 },
 {
 	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/Streaming%20Service%20Network/DistroTV/DistroTV.m3u", 
@@ -375,7 +375,7 @@
 	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/Sport.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/Sports.png", 
-	"name": "Sport"
+	"name": "Sport Mix"
 },
 {
 	"url": "0.0.0.0", 
@@ -393,49 +393,49 @@
 	"url": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/main/vod/PlutoTV_VOD_BR.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/PlutoTV.png", 
-	"name": "PlutoTV VOD BR"
+	"name": "HelmerLuzo - PlutoTV VOD BR"
 },
 {
 	"url": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/main/vod/PlutoTV_VOD_DE.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/PlutoTV.png", 
-	"name": "PlutoTV VOD DE"
+	"name": "HelmerLuzo - PlutoTV VOD DE"
 },
 {
 	"url": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/main/vod/PlutoTV_VOD_ES.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/PlutoTV.png", 
-	"name": "PlutoTV VOD ES"
+	"name": "HelmerLuzo - PlutoTV VOD ES"
 },
 {
 	"url": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/main/series/PlutoTV_SERIES_ES.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/PlutoTV.png", 
-	"name": "PlutoTV Series ES"
+	"name": "HelmerLuzo - PlutoTV Series ES"
 },
 {
 	"url": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/main/vod/PlutoTV_VOD_FR.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/PlutoTV.png", 
-	"name": "PlutoTV VOD FR"
+	"name": "HelmerLuzo - PlutoTV VOD FR"
 },
 {
 	"url": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/main/vod/PlutoTV_VOD_MX.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/PlutoTV.png", 
-	"name": "PlutoTV VOD MX"
+	"name": "HelmerLuzo - PlutoTV VOD MX"
 },
 {
 	"url": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/main/vod/PlutoTV_VOD_GB.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/PlutoTV.png", 
-	"name": "PlutoTV VOD UK"
+	"name": "HelmerLuzo - PlutoTV VOD UK"
 },
 {
 	"url": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/main/vod/PlutoTV_VOD_US.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/PlutoTV.png", 
-	"name": "PlutoTV VOD US"
+	"name": "HelmerLuzo - PlutoTV VOD US"
 },
 {
 	"url": "0.0.0.0", 
@@ -481,7 +481,7 @@
 },
 {
 	"url": "https://www.apsattv.com/klowd.m3u", 
-	"logos": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Logo%20Pays/US.png", 
+	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Logo%20Pays/US.png", 
 	"name": "Module TEST"
 }
