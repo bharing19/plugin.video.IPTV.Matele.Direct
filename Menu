@@ -330,6 +330,12 @@
 	"name": "WatchYourTV"
 },
 {
+	"url": "https://raw.githubusercontent.com/iptv-org/iptv/master/channels/us_xumo.m3u", 
+	"logos": "", 
+	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/XUMO.jpg", 
+	"name": "Xumo TV"
+},
+{
 	"url": "0.0.0.0", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/Mixed.png", 
