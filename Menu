@@ -12,12 +12,6 @@
 	"name": "Quebec TV"
 },
 {
-	"url": "https://raw.githubusercontent.com/Sphinxroot/Stuffed/main/FR.m3u", 
-	"logos": "", 
-	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/QuebecTV.png", 
-	"name": "Quebec TV 2"
-},
-{
 	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/Quebec%20Radio%20FR%20%20Merged.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Logo%20Pays/QC.png", 
