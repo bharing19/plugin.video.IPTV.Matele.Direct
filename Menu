@@ -354,6 +354,12 @@
 	"name": "★★★★★★★★★★Mixed★★★★★★★★★★"
 },
 {
+	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/NewsStand.m3u", 
+	"logos": "", 
+	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/NewsStand.jpg", 
+	"name": "News Stand"
+},
+{
 	"url": "https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/Free2ViewTV-2020-Remote.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/FT2W.jpg", 
