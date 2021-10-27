@@ -144,10 +144,10 @@
 	"name": "Catcast TV"
 },
 {
-	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/Streaming%20Service%20Network/DistroTV/DistroTV.m3u", 
+	"url": "https://raw.githubusercontent.com/Sphinxroot/DistroTV-1/main/distrotv.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/dtv.png", 
-	"name": "Distro TV"
+	"name": "DeltaSr & jhr1948 - Distro TV"
 },
 {
 	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/Youtube/Explore.org/EXPLORE.org.m3u", 
