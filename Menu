@@ -48,6 +48,12 @@
 	"name": "France TV 2"
 },
 {
+	"url": "https://raw.githubusercontent.com/Wanjieming/IPTV/master/FranceTV.m3u", 
+	"logos": "", 
+	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Logo%20Pays/FR.png", 
+	"name": "Fr+QC TV mix"
+},
+{
 	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/France.Radio.Merged.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Logo%20Pays/FR.png", 
