@@ -204,10 +204,10 @@
 	"name": "Good TV"
 },
 {
-	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/Streaming%20Service%20Network/HerogoTV/HerogoTV.m3u", 
+	"url": "https://raw.githubusercontent.com/DeltaSr95/Herogotv/master/herogotv.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/HerogoTV.jpg", 
-	"name": "Apsattv - Herogo TV"
+	"name": "DeltaSr & jhr1948 -Herogo TV"
 },
 {
 	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/Youtube/ILL.TV/ILL.TV.m3u", 
@@ -228,10 +228,10 @@
 	"name": "Jungo+ TV"
 },
 {
-	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/Streaming%20Service%20Network/LocalNow/LocalNow.m3u", 
+	"url": "https://raw.githubusercontent.com/DeltaSr95/LocalNow/master/LN.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/LocalNow.png", 
-	"name": "Apsattv - Local Now"
+	"name": "DeltaSr & jhr1948 - Local Now"
 },
 {
 	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/Streaming%20Service%20Network/MalimarTV/Malimar.tv.m3u", 
