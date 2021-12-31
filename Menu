@@ -426,6 +426,12 @@
 	"name": "IPTV-ORG 9000+ Link - Long To Load"
 },
 {
+	"url": "https://raw.githubusercontent.com/Magic-Dust/MagicDust/master/Test.m3u", 
+	"logos": "", 
+	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/MD.png", 
+	"name": "Magic-Dust Playlist"
+},
+{
 	"url": "https://raw.githubusercontent.com/TheLastZombie/Countries/main/dist/ZZ_PLAYLIST_ALL_TV.m3u", 
 	"logos": "", 
 	"image": "", 
