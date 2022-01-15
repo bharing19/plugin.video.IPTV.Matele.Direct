@@ -156,6 +156,12 @@
 	"name": "AdultSwim"
 },
 {
+	"url": "https://raw.githubusercontent.com/Sphinxroot/Airy.tv/master/airytv.m3u", 
+	"logos": "", 
+	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/airytv.png", 
+	"name": "AiryTV"
+},
+{
 	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/Streaming%20Service%20Network/allsprk.tv/allsprk.tv.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/poster.png", 
