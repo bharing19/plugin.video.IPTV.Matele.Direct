@@ -42,6 +42,18 @@
 	"name": "France TV"
 },
 {
+	"url": "https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/fr.m3u8", 
+	"logos": "", 
+	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/PlutoTV.png", 
+	"name": "Matt Huismans - Pluto TV FR"
+},
+{
+	"url": "https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/fr.m3u8", 
+	"logos": "", 
+	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/Samsung.jpg", 
+	"name": "Matt Huismans - Samsung Tv+ FR"
+},
+{
 	"url": "https://raw.githubusercontent.com/Sphinxroot/Stuffed/main/FR2.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Logo%20Pays/FR.png", 
