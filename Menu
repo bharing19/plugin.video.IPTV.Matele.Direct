@@ -12,7 +12,7 @@
 	"name": "Quebec TV"
 },
 {
-	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/Quebec%20Radio%20FR%20%20Merged.m3u", 
+	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/Radio/Quebec.Radio.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Logo%20Pays/QC.png", 
 	"name": "Quebec Radio"
@@ -72,7 +72,7 @@
 	"name": "Stream4Free FR"
 },
 {
-	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/France.Radio.Merged.m3u", 
+	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/Radio/France.Radio.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Logo%20Pays/FR.png", 
 	"name": "Radio De La France"
@@ -276,6 +276,12 @@
 	"name": "Jungo+ TV"
 },
 {
+	"url": "https://raw.githubusercontent.com/DeltaSr95/KlowdTV/master/klowdtv.m3u", 
+	"logos": "", 
+	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/KlowdTV.jpg", 
+	"name": "DeltaSr95 - Klowd TV"
+},
+{
 	"url": "https://www.apsattv.com/lg.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/LG.jpg", 
@@ -471,7 +477,7 @@
 	"url": "https://raw.githubusercontent.com/Playtoon/familia/main/tv.m3u", 
 	"logos": "", 
 	"image": "", 
-	"name": "Playtoon Playlist"
+	"name": "Playtoon Playlist ES"
 },
 {
 	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/music.m3u", 
@@ -558,52 +564,52 @@
 	"name": "★★★★★★★★★★Radio★★★★★★★★★★"
 },
 {
-	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/181.fm.m3u", 
+	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/Radio/181.fm.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/181.fm.png", 
 	"name": "181 FM Radio"
 },
 {
-	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/BigRRadio.m3u", 
+	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/Radio/BigRRadio.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/BRR.jpg", 
 	"name": "Big R Radio"
 },
 {
-	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/Dash%20Radio.m3u", 
+	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/Radio/Dash%20Radio.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/DashRadio.jpg", 
 	"name": "Dash Radio"
 },
 {
-	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/GotRadio.m3u", 
+	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/Radio/GotRadio.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/GotRadio.jpg", 
 	"name": "Got Radio"
 },
 {
-	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/MCR%20Radios.m3u", 
+	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/Radio/MCR%20Radios.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/MCR.png", 
 	"name": "MCR Radios"
 },
 {
-	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/0nradio.com.m3u", 
+	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/Radio/0nradio.com.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/0nradio.png", 
 	"name": "0nradio"
 },
 {
-	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/PromoDJ.m3u", 
+	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/Radio/PromoDJ.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/PromoDJ.jpg", 
 	"name": "PromoDJ"
 },
 {
-	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/RadioRecord.ru.m3u", 
+	"url": "", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/RR.jpg", 
-	"name": "RadioRecord"
+	"name": "RadioRecord.ru"
 },
 {
 	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/URLTEST.m3u", 
@@ -612,9 +618,15 @@
 	"name": "TEST"
 },
 {
-	"url": "https://www.apsattv.com/klowd.m3u", 
+	"url": "https://www.apsattv.com/galxytv.m3u", 
+	"logos": "", 
+	"image": "", 
+	"name": "TEST Galxy.TV"
+},
+{
+	"url": "https://www.apsattv.com/tcl.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Logo%20Pays/US.png", 
-	"name": "Module TEST"
+	"name": "TEST TCL TV "
 }
 ]
