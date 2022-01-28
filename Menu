@@ -606,10 +606,16 @@
 	"name": "PromoDJ"
 },
 {
-	"url": "", 
+	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/Radio/RadioRecord.ru.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/RR.jpg", 
 	"name": "RadioRecord.ru"
+},
+{
+	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/Radio/Weareone.fm.m3u", 
+	"logos": "", 
+	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/WAOFM.jpg", 
+	"name": "WeAreOne FM"
 },
 {
 	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/URLTEST.m3u", 
