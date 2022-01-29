@@ -288,6 +288,12 @@
 	"name": "Apsattv - LG TV"
 },
 {
+	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/Streaming%20Service%20Network/Localbtv/LocalBTV.m3u", 
+	"logos": "", 
+	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/LocalBTV.png", 
+	"name": "LocalBTV"
+},
+{
 	"url": "https://raw.githubusercontent.com/Sphinxroot/LocalNow/master/LN.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/LocalNow.png", 
