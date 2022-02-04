@@ -636,12 +636,6 @@
 	"name": "WeAreOne FM"
 },
 {
-	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/URLTEST.m3u", 
-	"logos": "", 
-	"image": "", 
-	"name": "TEST"
-},
-{
 	"url": "https://www.apsattv.com/galxytv.m3u", 
 	"logos": "", 
 	"image": "", 
@@ -652,5 +646,17 @@
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Logo%20Pays/US.png", 
 	"name": "TEST TCL TV "
+},
+{
+	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/URLTEST.m3u", 
+	"logos": "", 
+	"image": "", 
+	"name": "TEST"
+},
+{
+	"url": "https://directory.owncast.online/api/iptv", 
+	"logos": "", 
+	"image": "", 
+	"name": "TEST 2"
 }
 ]
