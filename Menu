@@ -480,6 +480,12 @@
 	"name": "World List Mixed TV"
 },
 {
+	"url": "https://iptv-org.github.io/iptv/index.country.m3u", 
+	"logos": "", 
+	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/iptv-org.png", 
+	"name": "IPTV-ORG 9000+ Link - Long To Load"
+},
+{
 	"url": "https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/Greekstreamtv.m3u", 
 	"logos": "", 
 	"image": "", 
