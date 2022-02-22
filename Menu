@@ -138,6 +138,12 @@
 	"name": "Haïti TV"
 },
 {
+	"url": "https://raw.githubusercontent.com/Sphinxroot/iptvmu3/main/Luxembourg.m3u", 
+	"logos": "", 
+	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Logo%20Pays/LU.png", 
+	"name": "Luxembourg"
+},
+{
 	"url": "https://raw.githubusercontent.com/Sphinxroot/iptvmu3/master/Martinique.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Logo%20Pays/MQ.jpg", 
