@@ -354,6 +354,12 @@
 	"name": "Matt Huismans - PBS USA GEO"
 },
 {
+	"url": "https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PBS/kids_all.m3u8", 
+	"logos": "", 
+	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/PBSKids.jpg", 
+	"name": "Matt Huismans - PBS Kids GEO"
+},
+{
 	"url": "https://i.mjh.nz/Plex/all.m3u8", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/Plex.png", 
@@ -633,7 +639,7 @@
 	"url": "https://raw.githubusercontent.com/Sphinxroot/Music/main/live365.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/live365.png", 
-	"name": "Live365"
+	"name": "DeltaSr - Live365"
 },
 {
 	"url": "https://raw.githubusercontent.com/Sphinxroot/iptvmu3/master/Radio/MCR%20Radios.m3u", 
@@ -687,6 +693,6 @@
 	"url": "https://directory.owncast.online/api/iptv", 
 	"logos": "", 
 	"image": "", 
-	"name": "TEST 2"
+	"name": "TEST 2 - owncast"
 }
 ]
