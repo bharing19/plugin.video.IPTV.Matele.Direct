@@ -492,6 +492,12 @@
 	"name": "Shopping"
 },
 {
+	"url": "https://raw.githubusercontent.com/Sphinxroot/iptvmu3/main/The.kids.Corner.m3u", 
+	"logos": "", 
+	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/kids-corner.png", 
+	"name": "The Kids Corner"
+},
+{
 	"url": "https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/Free2ViewTV-2020-Remote.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/FT2W.jpg", 
