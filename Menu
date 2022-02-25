@@ -54,12 +54,6 @@
 	"name": "Matt Huismans - Samsung Tv+ FR"
 },
 {
-	"url": "https://raw.githubusercontent.com/Sphinxroot/Stuffed/main/FR2.m3u", 
-	"logos": "", 
-	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Logo%20Pays/FR.png", 
-	"name": "France TV 2"
-},
-{
 	"url": "https://raw.githubusercontent.com/Wanjieming/IPTV/master/FranceTV.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Logo%20Pays/FR.png", 
