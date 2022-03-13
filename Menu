@@ -518,13 +518,13 @@
 {
 	"url": "https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/Greekstreamtv.m3u", 
 	"logos": "", 
-	"image": "", 
+	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/GRIPTV.png", 
 	"name": "free-greek-iptv"
 },
 {
 	"url": "https://raw.githubusercontent.com/Playtoon/familia/main/tv.m3u", 
 	"logos": "", 
-	"image": "", 
+	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/Playtoon.png", 
 	"name": "Playtoon Playlist ES"
 },
 {
@@ -681,7 +681,13 @@
 	"url": "https://www.apsattv.com/tcl.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Logo%20Pays/US.png", 
-	"name": "TEST TCL TV "
+	"name": "TEST TCL TV"
+},
+{
+	"url": "https://raw.githubusercontent.com/Sphinxroot/Nosey/master/nosey.m3u", 
+	"logos": "", 
+	"image": "", 
+	"name": "TEST Nosey"
 },
 {
 	"url": "https://raw.githubusercontent.com/Sphinxroot/iptvmu3/master/URLTEST.m3u", 
