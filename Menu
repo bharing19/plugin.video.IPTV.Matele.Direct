@@ -210,7 +210,7 @@
 	"name": "Catcast TV"
 },
 {
-	"url": "https://raw.githubusercontent.com/DeltaSr95/DistroTV/master/distrotv.m3u", 
+	"url": "https://raw.githubusercontent.com/Sphinxroot/DistroTV/master/distrotv.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/dtv.png", 
 	"name": "DeltaSr & jhr1948 - Distro TV"
@@ -264,7 +264,7 @@
 	"name": "Good TV"
 },
 {
-	"url": "https://raw.githubusercontent.com/DeltaSr95/Herogotv/master/herogotv.m3u", 
+	"url": "https://raw.githubusercontent.com/Sphinxroot/Herogotv/master/herogotv.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/HerogoTV.jpg", 
 	"name": "DeltaSr & jhr1948 - Herogo TV"
@@ -288,7 +288,7 @@
 	"name": "Jungo+ TV"
 },
 {
-	"url": "https://raw.githubusercontent.com/DeltaSr95/KlowdTV/master/klowdtv.m3u", 
+	"url": "https://raw.githubusercontent.com/Sphinxroot/KlowdTV/master/klowdtv.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/KlowdTV.jpg", 
 	"name": "DeltaSr95 - Klowd TV"
