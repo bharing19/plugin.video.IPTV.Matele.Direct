@@ -318,7 +318,7 @@
 	"name": "DeltaSr & jhr1948 - Local Now"
 },
 {
-	"url": "https://raw.githubusercontent.com/Sphinxroot/IPTVM3U/master/Streaming%20Service%20Network/MalimarTV/Malimar.tv.m3u", 
+	"url": "https://raw.githubusercontent.com/Sphinxroot/iptvmu3/main/Streaming%20Service%20Network/MalimarTV/Malimar.tv.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/Malimar.TV.png", 
 	"name": "Malimar TV"
