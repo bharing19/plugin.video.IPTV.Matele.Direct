@@ -60,6 +60,12 @@
 	"name": "Fr+QC TV mix"
 },
 {
+	"url": "https://raw.githubusercontent.com/Sphinxroot/Stuffed/main/FR2.m3u", 
+	"logos": "", 
+	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Logo%20Pays/FR.png", 
+	"name": "France 2 Firestick"
+},
+{
 	"url": "https://raw.githubusercontent.com/Sphinxroot/iptvmu3/master/Stream4Free.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/STRM4FR.png", 
