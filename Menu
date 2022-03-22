@@ -510,6 +510,12 @@
 	"name": "geonsey - Free2ViewTV"
 },
 {
+	"url": "https://raw.githubusercontent.com/DeltaSr95/Combined/master/combined.m3u", 
+	"logos": "", 
+	"image": "", 
+	"name": "DeltaSr95 Playlist"
+},
+{
 	"url": "https://raw.githubusercontent.com/Magic-Dust/MagicDust/master/Test.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/MD.png", 
@@ -525,7 +531,7 @@
 	"url": "https://iptv-org.github.io/iptv/index.country.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/iptv-org.png", 
-	"name": "IPTV-ORG 9000+ Link - Long To Load"
+	"name": "IPTV-ORG 11000+ Link - Long To Load"
 },
 {
 	"url": "https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/Greekstreamtv.m3u", 
@@ -692,7 +698,7 @@
 {
 	"url": "https://www.apsattv.com/tcl.m3u", 
 	"logos": "", 
-	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Logo%20Pays/US.png", 
+	"image": "", 
 	"name": "TEST TCL TV"
 },
 {
