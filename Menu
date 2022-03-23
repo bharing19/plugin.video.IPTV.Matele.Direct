@@ -150,6 +150,12 @@
 	"name": "Martinique TV"
 },
 {
+	"url": "https://raw.githubusercontent.com/Sphinxroot/iptvmu3/main/Netherlands.m3u", 
+	"logos": "", 
+	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Logo%20Pays/NL.png", 
+	"name": "Netherlands TV"
+},
+{
 	"url": "https://raw.githubusercontent.com/Sphinxroot/iptvmu3/master/Senegal.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Logo%20Pays/SN.png", 
