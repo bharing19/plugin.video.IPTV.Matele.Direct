@@ -246,6 +246,12 @@
 	"name": "Freeli TV"
 },
 {
+	"url": "https://raw.githubusercontent.com/Sphinxroot/iptvmu3/main/Streaming%20Service%20Network/GalxyTV/GalxyTV.m3u", 
+	"logos": "", 
+	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/galxy-tv.png", 
+	"name": "GalxyTV"
+},
+{
 	"url": "https://raw.githubusercontent.com/Sphinxroot/iptvmu3/master/Streaming%20Service%20Network/GinikoUSA/Giniko.USA.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/Giniko.png", 
@@ -700,12 +706,6 @@
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/WAOFM.jpg", 
 	"name": "WeAreOne FM"
-},
-{
-	"url": "https://www.apsattv.com/galxytv.m3u", 
-	"logos": "", 
-	"image": "", 
-	"name": "TEST Galxy.TV"
 },
 {
 	"url": "https://www.apsattv.com/tcl.m3u", 
