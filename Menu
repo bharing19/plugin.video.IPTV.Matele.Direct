@@ -558,6 +558,12 @@
 	"name": "Playtoon Playlist ES"
 },
 {
+	"url": "https://www.tdtchannels.com/lists/tvradio.m3u", 
+	"logos": "", 
+	"image": "https://i.imgur.com/hl3OVbB.jpg", 
+	"name": "TDT Channel"
+},
+{
 	"url": "https://raw.githubusercontent.com/Sphinxroot/iptvmu3/master/music.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/musique.png", 
