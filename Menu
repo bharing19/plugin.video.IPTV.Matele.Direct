@@ -576,6 +576,12 @@
 	"name": "Sport Mix"
 },
 {
+	"url": "https://raw.githubusercontent.com/Sphinxroot/iptvmu3/main/Youtube/Youtube.Music/Youtube.Music.m3u", 
+	"logos": "", 
+	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/YTMusic.jpg", 
+	"name": "Youtube Music"
+},
+{
 	"url": "0.0.0.0", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/VOD.png", 
