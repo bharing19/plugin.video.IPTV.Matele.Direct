@@ -582,6 +582,12 @@
 	"name": "Youtube Music"
 },
 {
+	"url": "https://raw.githubusercontent.com/Sphinxroot/iptvmu3/main/Vatican.Media.m3u", 
+	"logos": "", 
+	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/Vatican.Media.png", 
+	"name": "Vatican Media"
+},
+{
 	"url": "0.0.0.0", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/VOD.png", 
