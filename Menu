@@ -474,6 +474,12 @@
 	"name": "Vision TV"
 },
 {
+	"url": "https://raw.githubusercontent.com/Sphinxroot/iptvmu3/main/Streaming%20Service%20Network/VivaLIveTV/VivaLive.tv.m3u", 
+	"logos": "", 
+	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/VivaLiveTV.jpg", 
+	"name": "VivaLive TV"
+},
+{
 	"url": "https://raw.githubusercontent.com/Sphinxroot/iptvmu3/master/Streaming%20Service%20Network/VizioTV/VizioTV.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/Vizio.jpg", 
