@@ -462,6 +462,12 @@
 	"name": "TV25"
 },
 {
+	"url": "https://raw.githubusercontent.com/Sphinxroot/TV/main/Vatican.Media.m3u", 
+	"logos": "", 
+	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/Vatican.Media.png", 
+	"name": "Vatican Media"
+},
+{
 	"url": "https://raw.githubusercontent.com/Sphinxroot/TV/main/Streaming%20Service%20Network/vaughn.Live/vaughn.Live.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/vaughn.live.png", 
@@ -616,12 +622,6 @@
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/YTMusic.jpg", 
 	"name": "Youtube Music"
-},
-{
-	"url": "https://raw.githubusercontent.com/Sphinxroot/TV/main/Vatican.Media.m3u", 
-	"logos": "", 
-	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/Vatican.Media.png", 
-	"name": "Vatican Media"
 },
 {
 	"url": "0.0.0.0", 
