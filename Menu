@@ -108,7 +108,7 @@
 	"name": "★★★★★★★★★★Countries/Pays★★★★★★★★★★"
 },
 {
-	"url": "https://raw.githubusercontent.com/Sphinxroot/TV/maim/Burkina%20Faso.m3u", 
+	"url": "https://raw.githubusercontent.com/Sphinxroot/TV/main/Burkina%20Faso.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Logo%20Pays/BF.png", 
 	"name": "Burkina Faso TV"
@@ -354,7 +354,7 @@
 	"name": "Muzzik TV"
 },
 {
-	"url": "https://raw.githubusercontent.com/Sphinxroot/iptv-1/master/channels/ru_okkotv.m3u", 
+	"url": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru_okkotv.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/okko.png", 
 	"name": "Okko TV"
@@ -486,6 +486,12 @@
 	"name": "Very Local"
 },
 {
+	"url": "https://raw.githubusercontent.com/Sphinxroot/TV/main/Streaming%20Service%20Network/VidioTV/VidioTV.m3u", 
+	"logos": "", 
+	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/Vidio.png", 
+	"name": "Vidio"
+},
+{
 	"url": "https://raw.githubusercontent.com/Sphinxroot/TV/main/Streaming%20Service%20Network/VisionTV/VisionTV.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/VisionTV.png", 
@@ -540,7 +546,7 @@
 	"name": "The Kids Corner"
 },
 {
-	"url": "https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/Free2ViewTV-2020-Remote.m3u", 
+	"url": "https://raw.githubusercontent.com/Sphinxroot/Free2ViewTV/main/Free2ViewTV-2021-Master-PC.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/FT2W.jpg", 
 	"name": "geonsey - Free2ViewTV"
@@ -777,7 +783,7 @@
 	"url": "https://raw.githubusercontent.com/Sphinxroot/TV/main/URLTEST.m3u", 
 	"logos": "", 
 	"image": "", 
-	"name": "TEST"
+	"name": "TEST Temp Link Depot"
 },
 {
 	"url": "https://directory.owncast.online/api/iptv", 
