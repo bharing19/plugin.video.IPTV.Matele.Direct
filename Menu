@@ -108,6 +108,12 @@
 	"name": "★★★★★★★★★★Countries/Pays★★★★★★★★★★"
 },
 {
+	"url": "https://raw.githubusercontent.com/Sphinxroot/TV/main/Austria.m3u", 
+	"logos": "", 
+	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Logo%20Pays/AT.jpg", 
+	"name": "Austria TV"
+},
+{
 	"url": "https://raw.githubusercontent.com/Sphinxroot/TV/main/Burkina%20Faso.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Logo%20Pays/BF.png", 
