@@ -426,16 +426,22 @@
 	"name": "Matt Huismans - Samsung Tv+"
 },
 {
+	"url": "https://raw.githubusercontent.com/Sphinxroot/TV/main/Streaming%20Service%20Network/Sluhay.by/Sluhay.by.m3u", 
+	"logos": "", 
+	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/Sluhay.by.png", 
+	"name": "Sluhay.by Music"
+},
+{
 	"url": "https://raw.githubusercontent.com/Sphinxroot/TV/main/Streaming%20Service%20Network/Smash/smash_plus.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/Smash.png", 
 	"name": "Smash TV"
 },
 {
-	"url": "https://raw.githubusercontent.com/Sphinxroot/TV/main/Streaming%20Service%20Network/Sluhay.by/Sluhay.by.m3u", 
+	"url": "https://raw.githubusercontent.com/Sphinxroot/TV/main/Streaming%20Service%20Network/SportsTribal.TV/SportsTribal.TV.m3u", 
 	"logos": "", 
-	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/Sluhay.by.png", 
-	"name": "Sluhay.by Music"
+	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/SportsTribal.TV.png", 
+	"name": "SportsTrbal.TV"
 },
 {
 	"url": "https://raw.githubusercontent.com/Sphinxroot/TV/main/Streaming%20Service%20Network/Stingray/Stingray..m3u", 
