@@ -189,7 +189,7 @@
 	"url": "https://raw.githubusercontent.com/Sphinxroot/Airy.tv/master/airytv.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/airytv.png", 
-	"name": "DeltaSr & jhr1948 - AiryTV"
+	"name": "AiryTV"
 },
 {
 	"url": "https://raw.githubusercontent.com/Sphinxroot/TV/main/Streaming%20Service%20Network/allsprk.tv/allsprk.tv.m3u", 
@@ -231,7 +231,7 @@
 	"url": "https://raw.githubusercontent.com/Sphinxroot/DistroTV/master/distrotv.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/dtv.png", 
-	"name": "DeltaSr & jhr1948 - Distro TV"
+	"name": "Distro TV"
 },
 {
 	"url": "https://raw.githubusercontent.com/Sphinxroot/TV/main/Youtube/Explore.org/EXPLORE.org.m3u", 
@@ -291,7 +291,7 @@
 	"url": "https://raw.githubusercontent.com/Sphinxroot/Herogotv/master/herogotv.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/HerogoTV.jpg", 
-	"name": "DeltaSr & jhr1948 - Herogo TV"
+	"name": "Herogo TV"
 },
 {
 	"url": "https://raw.githubusercontent.com/Sphinxroot/TV/main/Youtube/ILL.TV/ILL.TV.m3u", 
@@ -315,7 +315,7 @@
 	"url": "https://raw.githubusercontent.com/Sphinxroot/KlowdTV/master/klowdtv.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/KlowdTV.jpg", 
-	"name": "DeltaSr95 - Klowd TV"
+	"name": "Klowd TV"
 },
 {
 	"url": "https://www.apsattv.com/lg.m3u", 
@@ -339,7 +339,7 @@
 	"url": "https://raw.githubusercontent.com/Sphinxroot/TV/main/Streaming%20Service%20Network/LocalNow/LocalNow.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/LocalNow.png", 
-	"name": "DeltaSr & jhr1948 - Local Now"
+	"name": "Local Now"
 },
 {
 	"url": "https://raw.githubusercontent.com/Sphinxroot/TV/main/Streaming%20Service%20Network/MalimarTV/Malimar.tv.m3u", 
