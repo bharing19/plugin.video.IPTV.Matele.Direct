@@ -558,18 +558,6 @@
 	"name": "The Kids Corner"
 },
 {
-	"url": "https://raw.githubusercontent.com/Sphinxroot/Free2ViewTV/main/Free2ViewTV-2021-Master-PC.m3u", 
-	"logos": "", 
-	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/FT2W.jpg", 
-	"name": "geonsey - Free2ViewTV"
-},
-{
-	"url": "https://raw.githubusercontent.com/DeltaSr95/Combined/master/combined.m3u", 
-	"logos": "", 
-	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/Delta.png", 
-	"name": "DeltaSr95 Playlist"
-},
-{
 	"url": "https://raw.githubusercontent.com/Magic-Dust/MagicDust/master/Test.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/MD.png", 
