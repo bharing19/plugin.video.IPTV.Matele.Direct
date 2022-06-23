@@ -408,10 +408,10 @@
 	"name": "Apsattv / Sphinxroot (logo) - Rakuten TV"
 },
 {
-	"url": "https://www.apsattv.com/redbox.m3u", 
+	"url": "https://raw.githubusercontent.com/Sphinxroot/TV/main/Streaming%20Service%20Network/RedBoxTV/RedBoxTV.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/RedBox-TV-1.png", 
-	"name": "Apsattv - RedBox TV"
+	"name": "RedBox TV"
 },
 {
 	"url": "https://raw.githubusercontent.com/Sphinxroot/TV/main/Streaming%20Service%20Network/Roku/Roku.m3u", 
