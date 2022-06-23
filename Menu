@@ -240,12 +240,6 @@
 	"name": "EXPLORE.org"
 },
 {
-	"url": "https://raw.githubusercontent.com/Sphinxroot/TV/main/Streaming%20Service%20Network/flixhub/flixhub.m3u", 
-	"logos": "", 
-	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/flixhublive.jpg", 
-	"name": "flixhub"
-},
-{
 	"url": "https://raw.githubusercontent.com/Sphinxroot/TV/main/Streaming%20Service%20Network/Freeli.tv/Freeli.tv.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/Freeli.jpg", 
