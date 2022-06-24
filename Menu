@@ -774,12 +774,6 @@
 	"name": "TEST TCL TV"
 },
 {
-	"url": "https://raw.githubusercontent.com/Sphinxroot/Nosey/master/nosey.m3u", 
-	"logos": "", 
-	"image": "", 
-	"name": "TEST Nosey"
-},
-{
 	"url": "https://raw.githubusercontent.com/Sphinxroot/TV/main/URLTEST.m3u", 
 	"logos": "", 
 	"image": "", 
