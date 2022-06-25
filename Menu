@@ -66,6 +66,12 @@
 	"name": "France 2 Firestick"
 },
 {
+	"url": "https://raw.githubusercontent.com/Sphinxroot/TV/main/TNT.FR.m3u", 
+	"logos": "", 
+	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/TNT.png", 
+	"name": "TNT en Direct"
+},
+{
 	"url": "https://raw.githubusercontent.com/Sphinxroot/TV/main/Stream4Free.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/STRM4FR.png", 
