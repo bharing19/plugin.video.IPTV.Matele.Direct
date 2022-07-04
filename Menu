@@ -627,7 +627,13 @@
 	"url": "https://raw.githubusercontent.com/Sphinxroot/TV/main/Sport.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/Sports.png", 
-	"name": "Sport Mix"
+	"name": "Sports Mix"
+},
+{
+	"url": "https://raw.githubusercontent.com/Sphinxroot/TV/main/Sports.Mix.m3u", 
+	"logos": "", 
+	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/Sports.png", 
+	"name": "Sports & Outdoor Mix"
 },
 {
 	"url": "https://raw.githubusercontent.com/Sphinxroot/TV/main/Youtube/Youtube.Music/Youtube.Music.m3u", 
@@ -735,7 +741,7 @@
 	"url": "https://raw.githubusercontent.com/Sphinxroot/Music/main/live365.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/live365.png", 
-	"name": "DeltaSr - Live365"
+	"name": "Live365"
 },
 {
 	"url": "https://raw.githubusercontent.com/Sphinxroot/TV/main/Radio/MCR%20Radios.m3u", 
