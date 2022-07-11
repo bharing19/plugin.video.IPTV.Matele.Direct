@@ -366,6 +366,12 @@
 	"name": "Okko TV"
 },
 {
+	"url": "https://directory.owncast.online/api/iptv", 
+	"logos": "", 
+	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/owncast.png", 
+	"name": "Owncast"
+},
+{
 	"url": "https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PBS/kids_all.m3u8", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/PBSKids.jpg", 
@@ -469,8 +475,8 @@
 },
 {
 	"url": "https://www.apsattv.com/tcl.m3u", 
-	"logos": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/TCL.png", 
-	"image": "", 
+	"logos": "", 
+	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/TCL.png", 
 	"name": "TCL TV"
 },
 {
@@ -562,6 +568,12 @@
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/Mixed.png", 
 	"name": "★★★★★★★★★★Mixed★★★★★★★★★★"
+},
+{
+	"url": "https://raw.githubusercontent.com/Sphinxroot/TV/main/URLTEST.m3u", 
+	"logos": "", 
+	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/Temp.jpg", 
+	"name": "Temp Link Depot"
 },
 {
 	"url": "https://raw.githubusercontent.com/Sphinxroot/TV/main/NewsStand.m3u", 
@@ -796,17 +808,5 @@
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/WAOFM.jpg", 
 	"name": "WeAreOne FM"
-},
-{
-	"url": "https://raw.githubusercontent.com/Sphinxroot/TV/main/URLTEST.m3u", 
-	"logos": "", 
-	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/Temp.jpg", 
-	"name": "TEST Temp Link Depot"
-},
-{
-	"url": "https://directory.owncast.online/api/iptv", 
-	"logos": "", 
-	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/owncast.png", 
-	"name": "TEST 2 - owncast"
 }
 ]
