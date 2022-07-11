@@ -456,6 +456,12 @@
 	"name": "Stirr TV"
 },
 {
+	"url": "https://www.apsattv.com/tcl.m3u", 
+	"logos": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/TCL.png", 
+	"image": "", 
+	"name": "TCL TV"
+},
+{
 	"url": "https://raw.githubusercontent.com/Sphinxroot/TV/main/Streaming%20Service%20Network/TeleVall/TeleVall.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/TeleVall.png", 
@@ -780,21 +786,15 @@
 	"name": "WeAreOne FM"
 },
 {
-	"url": "https://www.apsattv.com/tcl.m3u", 
-	"logos": "", 
-	"image": "", 
-	"name": "TEST TCL TV"
-},
-{
 	"url": "https://raw.githubusercontent.com/Sphinxroot/TV/main/URLTEST.m3u", 
 	"logos": "", 
-	"image": "", 
+	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/Temp.jpg", 
 	"name": "TEST Temp Link Depot"
 },
 {
 	"url": "https://directory.owncast.online/api/iptv", 
 	"logos": "", 
-	"image": "", 
+	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/owncast.png", 
 	"name": "TEST 2 - owncast"
 }
 ]
