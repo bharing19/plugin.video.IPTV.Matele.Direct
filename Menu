@@ -808,5 +808,11 @@
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/WAOFM.jpg", 
 	"name": "WeAreOne FM"
+},
+{
+	"url": "https://www.apsattv.com/xiaomi.m3u", 
+	"logos": "", 
+	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/xiaomi.jpg", 
+	"name": "Test - Xiaomi mi tv"
 }
 ]
