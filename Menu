@@ -420,6 +420,12 @@
 	"name": "Apsattv / Sphinxroot (logo) - Rakuten TV"
 },
 {
+	"url": "https://www.apsattv.com/rakuten-uk.m3u", 
+	"logos": "", 
+	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/Rakuten.png", 
+	"name": "Apsattv  - Rakuten TV UK"
+},
+{
 	"url": "https://raw.githubusercontent.com/Sphinxroot/TV/main/Streaming%20Service%20Network/RedBoxTV/RedBoxTV.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/RedBox-TV-1.png", 
@@ -813,6 +819,6 @@
 	"url": "https://www.apsattv.com/xiaomi.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/xiaomi.jpg", 
-	"name": "Test - Xiaomi mi tv"
+	"name": "Test - Apsattv - Xiaomi mi tv"
 }
 ]
