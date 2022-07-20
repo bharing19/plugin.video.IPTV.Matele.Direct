@@ -414,7 +414,7 @@
 	"name": "Rad TV"
 },
 {
-	"url": "https://raw.githubusercontent.com/Sphinxroot/YV/main/Streaming%20Service%20Network/RakutenTV/RakutenTV.m3u", 
+	"url": "https://raw.githubusercontent.com/Sphinxroot/TV/main/Streaming%20Service%20Network/RakutenTV/RakutenTV.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/Rakuten.png", 
 	"name": "Rakuten TV"
