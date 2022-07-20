@@ -318,10 +318,10 @@
 	"name": "Klowd TV"
 },
 {
-	"url": "https://www.apsattv.com/lg.m3u", 
+	"url": "https://raw.githubusercontent.com/Sphinxroot/TV/main/Streaming%20Service%20Network/LG/lg.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/LG.jpg", 
-	"name": "Apsattv - LG TV"
+	"name": "LG TV"
 },
 {
 	"url": "https://raw.githubusercontent.com/Sphinxroot/TV/main/Streaming%20Service%20Network/Livestream/Livestream.m3u", 
@@ -417,13 +417,13 @@
 	"url": "https://raw.githubusercontent.com/Sphinxroot/YV/main/Streaming%20Service%20Network/RakutenTV/RakutenTV.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/Rakuten.png", 
-	"name": "Apsattv / Sphinxroot (logo) - Rakuten TV"
+	"name": "Rakuten TV"
 },
 {
-	"url": "https://www.apsattv.com/rakuten-uk.m3u", 
+	"url": "https://raw.githubusercontent.com/Sphinxroot/TV/main/Streaming%20Service%20Network/RakutenTV/rakuten-uk.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/Rakuten.png", 
-	"name": "Apsattv  - Rakuten TV UK"
+	"name": "Rakuten TV UK"
 },
 {
 	"url": "https://raw.githubusercontent.com/Sphinxroot/TV/main/Streaming%20Service%20Network/RedBoxTV/RedBoxTV.m3u", 
@@ -435,7 +435,7 @@
 	"url": "https://raw.githubusercontent.com/Sphinxroot/TV/main/Streaming%20Service%20Network/Roku/Roku.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/Roku.png", 
-	"name": "Apsattv - Roku TV"
+	"name": "Roku TV"
 },
 {
 	"url": "https://i.mjh.nz/SamsungTVPlus/all.m3u8", 
@@ -480,7 +480,7 @@
 	"name": "Stirr TV"
 },
 {
-	"url": "https://www.apsattv.com/tcl.m3u", 
+	"url": "https://raw.githubusercontent.com/Sphinxroot/TV/main/Streaming%20Service%20Network/TCL/tcl.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/TCL.png", 
 	"name": "TCL TV"
@@ -501,7 +501,7 @@
 	"url": "https://raw.githubusercontent.com/Sphinxroot/TV/main/Streaming%20Service%20Network/TubiTV/tubi.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/tubi.png", 
-	"name": "Apsattv / Sphinxroot (logo) - Tubi TV"
+	"name": "Tubi TV"
 },
 {
 	"url": "https://raw.githubusercontent.com/Sphinxroot/TV/main/Streaming%20Service%20Network/TV25/TV25.m3u", 
@@ -555,7 +555,7 @@
 	"url": "https://raw.githubusercontent.com/Sphinxroot/TV/main/Streaming%20Service%20Network/VizioTV/VizioTV.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/Vizio.jpg", 
-	"name": "Apsattv / Sphinxroot (logo) - Visio TV"
+	"name": "Visio TV"
 },
 {
 	"url": "https://raw.githubusercontent.com/Sphinxroot/TV/main/Streaming%20Service%20Network/WatchYourTV/WatchYourTV.m3u", 
@@ -563,6 +563,12 @@
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/WYTV.png", 
 	"name": "WatchYourTV"
 },
+{
+	"url": "https://raw.githubusercontent.com/Sphinxroot/TV/main/Streaming%20Service%20Network/Xiaomi/xiaomi.m3u", 
+	"logos": "", 
+	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/xiaomi.jpg", 
+	"name": "Xiaomi mi tv"
+}
 {
 	"url": "https://raw.githubusercontent.com/Sphinxroot/iptv-1/master/streams/us_xumo.m3u", 
 	"logos": "", 
@@ -814,11 +820,5 @@
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/WAOFM.jpg", 
 	"name": "WeAreOne FM"
-},
-{
-	"url": "https://www.apsattv.com/xiaomi.m3u", 
-	"logos": "", 
-	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/xiaomi.jpg", 
-	"name": "Test - Apsattv - Xiaomi mi tv"
 }
 ]
