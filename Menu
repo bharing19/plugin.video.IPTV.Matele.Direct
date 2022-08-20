@@ -1,6 +1,6 @@
 [
 {
-	"url": "https://raw.githubusercontent.com/Sphinxroot/Test/main/test.1.m3u", 
+	"url": "https://raw.githubusercontent.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/master/Images/Menu/Separator.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/FR.png", 
 	"name": "★★★★★★★★★★IPTV Francais★★★★★★★★★★"
@@ -108,7 +108,7 @@
 	"name": "Docus VOD"
 },
 {
-	"url": "0.0.0.0", 
+	"url": "https://raw.githubusercontent.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/master/Images/Menu/Separator.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/Countries.jpg", 
 	"name": "★★★★★★★★★★Countries/Pays★★★★★★★★★★"
@@ -216,7 +216,7 @@
 	"name": "USA TV Local NJ"
 },
 {
-	"url": "0.0.0.0", 
+	"url": "https://raw.githubusercontent.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/master/Images/Menu/Separator.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/SSN.png", 
 	"name": "★★★★★★★★★★Streaming Service Network★★★★★★★★★★"
@@ -612,7 +612,7 @@
 	"name": "Xumo TV"
 },
 {
-	"url": "0.0.0.0", 
+	"url": "https://raw.githubusercontent.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/master/Images/Menu/Separator.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/Mixed.png", 
 	"name": "★★★★★★★★★★Mixed★★★★★★★★★★"
@@ -646,12 +646,6 @@
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/MD.png", 
 	"name": "Magic-Dust Playlist"
-},
-{
-	"url": "https://raw.githubusercontent.com/TheLastZombie/Countries/main/dist/ZZ_PLAYLIST_ALL_TV.m3u", 
-	"logos": "", 
-	"image": "", 
-	"name": "World List Mixed TV"
 },
 {
 	"url": "https://iptv-org.github.io/iptv/index.country.m3u", 
@@ -720,7 +714,7 @@
 	"name": "Youtube Music"
 },
 {
-	"url": "0.0.0.0", 
+	"url": "https://raw.githubusercontent.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/master/Images/Menu/Separator.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/VOD.png", 
 	"name": "★★★★★★★★★★V.O.D★★★★★★★★★★"
@@ -786,7 +780,7 @@
 	"name": "Xumo Vod"
 },
 {
-	"url": "0.0.0.0", 
+	"url": "https://raw.githubusercontent.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/master/Images/Menu/Separator.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/Radio.png", 
 	"name": "★★★★★★★★★★Radio★★★★★★★★★★"
