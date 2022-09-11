@@ -408,7 +408,7 @@
 	"name": "Owncast"
 },
 {
-	"url": "https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PBS/kids_all.m3u8", 
+	"url": "https://i.mjh.nz/PBS/kids_all.m3u8", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/PBSKids.jpg", 
 	"name": "Matt Huismans - PBS Kids GEO"
@@ -426,7 +426,7 @@
 	"name": "Matt Huismans - Pluto TV"
 },
 {
-	"url": "https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/us.m3u8", 
+	"url": "https://i.mjh.nz/PlutoTV/us.m3u8", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/PlutoTV.png", 
 	"name": "Matt Huismans - Pluto TV USA"
@@ -480,7 +480,7 @@
 	"name": "Matt Huismans - Samsung Tv+"
 },
 {
-	"url": "https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/us.m3u8", 
+	"url": "https://i.mjh.nz/SamsungTVPlus/us.m3u8", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/Samsung.jpg", 
 	"name": "Matt Huismans - Samsung Tv+ USA"
