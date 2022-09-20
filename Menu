@@ -786,12 +786,6 @@
 	"name": "HelmerLuzo - PlutoTV VOD US"
 },
 {
-	"url": "https://raw.githubusercontent.com/Sphinxroot/iptvmu3/master/Xumo.VOD.m3u", 
-	"logos": "", 
-	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/XUMO.jpg", 
-	"name": "Xumo Vod"
-},
-{
 	"url": "https://raw.githubusercontent.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/master/Images/Menu/Separator.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/Radio.png", 
