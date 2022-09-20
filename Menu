@@ -456,7 +456,7 @@
 	"name": "Prosto TV"
 },
 {
-	"url": "https://raw.githubusercontent.com/Sphinxroot/iptvmu3/master/Streaming%20Service%20Network/Rad.TV/Rad.TV.m3u", 
+	"url": "https://raw.githubusercontent.com/Sphinxroot/TV/main/Streaming%20Service%20Network/Rad.TV/Rad.TV.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/Rad.tv.png", 
 	"name": "Rad TV"
