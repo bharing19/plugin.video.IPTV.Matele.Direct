@@ -396,16 +396,22 @@
 	"name": "Malimar TV"
 },
 {
-	"url": "https://raw.githubusercontent.com/Sphinxroot/TV/main/Streaming%20Service%20Network/MyTvToGo/MyTvToGo.m3u", 
-	"logos": "", 
-	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/MyTVToGo.png", 
-	"name": "MyTvToGo"
-},
-{
 	"url": "https://raw.githubusercontent.com/Sphinxroot/TV/main/Streaming%20Service%20Network/Muzzik.tv/Muzzik.tv.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/Muzzik.tv.png", 
 	"name": "Muzzik TV"
+},
+{
+	"url": "https://raw.githubusercontent.com/Sphinxroot/TV/main/Streaming%20Service%20Network/MyBundleTV/Mybundle.TV.m3u", 
+	"logos": "", 
+	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/MyBundleTV.jpg", 
+	"name": "MyBundle TV"
+},
+{
+	"url": "https://raw.githubusercontent.com/Sphinxroot/TV/main/Streaming%20Service%20Network/MyTvToGo/MyTvToGo.m3u", 
+	"logos": "", 
+	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/MyTVToGo.png", 
+	"name": "MyTvToGo"
 },
 {
 	"url": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru_okkotv.m3u", 
@@ -484,6 +490,12 @@
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/Roku.png", 
 	"name": "Roku TV"
+},
+{
+	"url": "https://raw.githubusercontent.com/Sphinxroot/TV/main/Streaming%20Service%20Network/Runtime.TV/Runtime.TV.m3u", 
+	"logos": "", 
+	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/runtime.jpg", 
+	"name": "Runtime TV"
 },
 {
 	"url": "https://i.mjh.nz/SamsungTVPlus/all.m3u8", 
