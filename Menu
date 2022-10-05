@@ -834,6 +834,12 @@
 	"name": "Got Radio"
 },
 {
+	"url": "https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/main/---everything-full.m3u", 
+	"logos": "", 
+	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/junguler.png", 
+	"name": "junguler Radio List"
+},
+{
 	"url": "https://raw.githubusercontent.com/Sphinxroot/TV/main/Radio/live365.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/live365.png", 
