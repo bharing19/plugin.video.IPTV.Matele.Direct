@@ -510,16 +510,16 @@
 	"name": "Matt Huismans - Samsung Tv+ USA"
 },
 {
-	"url": "https://raw.githubusercontent.com/Sphinxroot/TV/main/Streaming%20Service%20Network/ShoutFactoryTV/ShoutFactoryTV.m3u", 
-	"logos": "", 
-	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/ShoutFactoryTV.jpg", 
-	"name": "ShoutFactory TV"
-},
-{
 	"url": "https://raw.githubusercontent.com/Sphinxroot/TV/main/Streaming%20Service%20Network/Screambox/Screambox.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/Screambox.png", 
 	"name": "Screambox TV"
+},
+{
+	"url": "https://raw.githubusercontent.com/Sphinxroot/TV/main/Streaming%20Service%20Network/ShoutFactoryTV/ShoutFactoryTV.m3u", 
+	"logos": "", 
+	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/ShoutFactoryTV.jpg", 
+	"name": "ShoutFactory TV"
 },
 {
 	"url": "https://raw.githubusercontent.com/Sphinxroot/TV/main/Streaming%20Service%20Network/Sluhay.by/Sluhay.by.m3u", 
