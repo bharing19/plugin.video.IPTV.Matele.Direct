@@ -822,6 +822,12 @@
 	"name": "HQ Radio"
 },
 {
+	"url": "https://raw.githubusercontent.com/Sphinxroot/TV/main/Radio/1.FM.m3u", 
+	"logos": "", 
+	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/1.FM.png", 
+	"name": "1.FM Radio"
+},
+{
 	"url": "https://raw.githubusercontent.com/Sphinxroot/TV/main/Radio/181.fm.m3u", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/181.fm.png", 
