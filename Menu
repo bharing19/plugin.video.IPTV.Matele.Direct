@@ -414,12 +414,6 @@
 	"name": "MyTvToGo"
 },
 {
-	"url": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru_okkotv.m3u", 
-	"logos": "", 
-	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/okko.png", 
-	"name": "Okko TV"
-},
-{
 	"url": "https://directory.owncast.online/api/iptv", 
 	"logos": "", 
 	"image": "https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Menu/owncast.png", 
